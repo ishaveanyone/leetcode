@@ -20,6 +20,8 @@ public class 解数独 {
     }
 
 
+    public static void main(String[] args) {
+    }
 
 
 
